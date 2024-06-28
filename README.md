@@ -1,0 +1,2 @@
+This repository showcases the implementation of various reinforcement learning (RL) algorithms applied to the CartPole environment from OpenAI's Gym. The CartPole problem is a fundamental benchmark in RL, where the objective is to balance a pole on a moving cart by applying forces to the left or right.
+This is implemented using OpenAI gym and makes use of simple PPO algorithm for training the RL agent to perform the task well.
